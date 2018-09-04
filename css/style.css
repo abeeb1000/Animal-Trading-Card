@@ -1,0 +1,25 @@
+/* container style*/
+.container{
+  width: 30rem;
+  padding:10px;
+  border: 1px solid black;
+  font-style: Arial sans-serif;
+  font-size: 1rem;
+  box-shadow: 9px 9px 2px grey;
+}
+/* header center*/
+#heading{
+  text-align: center;
+}
+/* responsive image*/
+img{
+  width:100%;
+  border-radius: 4px;
+}
+/* inner container style*/
+#about{
+  border: 1px solid black;
+  border-radius: 4px;
+  padding:12px;
+  margin-top: 10px;
+}
