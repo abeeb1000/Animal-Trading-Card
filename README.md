@@ -1,9 +1,9 @@
 # Animal Trading Cards
 The application offers the following properties:
-     * A web page of an Animal and its features.
-     * Responsive
-     * for view only on laptops or big screens
-     * cross-browser consistency
+     - A web page of an Animal and its features.
+     - Responsive
+     - for view only on laptops or big screens
+     - cross-browser consistency
 
 ## Requirements
   Internet browser  
@@ -16,7 +16,7 @@ The application offers the following properties:
   - CSS
 
 ## Deployment
-  Take a look at the live version here  https://abeeb1000.github.io/Upage/.
+  Take a look at the live version here  https://abeeb1000.github.io/Animal-Trading-Card/.
 
 ## Author
   Abeeb Ridwan
