@@ -1,6 +1,18 @@
+body{
+  margin: 0;
+  padding: 10px;
+  box-sizing: border-box;
+  font-family: arial sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  }
 /* container style*/
-.container{
+#container{
+  justify-content: center;
+  align-items: center;
   width: 30rem;
+  height: auto;
   padding:10px;
   border: 1px solid black;
   font-family: Arial sans-serif;
@@ -14,7 +26,8 @@
 }
 /* responsive image*/
 img{
-  width:100%;
+  max-width:100%;
+  height: auto;
   border-radius: 4px;
 }
 /* inner container style*/
